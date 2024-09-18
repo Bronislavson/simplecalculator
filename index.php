@@ -59,7 +59,7 @@ if (isset($_POST['num'])) {
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Калькулятор</title>
+  <title>Мини-Калькулятор</title>
   <style>
     body {
       font-family: Arial, sans-serif;
